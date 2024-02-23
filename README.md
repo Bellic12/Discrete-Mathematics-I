@@ -5,8 +5,7 @@ Our notebooks feature practical implementations, insightful visualizations, and 
 
 While this repository is initially curated for personal use, we welcome contributions from fellow learners and enthusiasts. Together, let's build a vibrant community around Discrete Mathematics, fostering collaboration and sharing knowledge to enrich the learning experience for all. 🌟
 
----
-## Copyright
+# ⚖️ Copyright
 
 This mod is copyright (c) 2024 Bellic12.
 
